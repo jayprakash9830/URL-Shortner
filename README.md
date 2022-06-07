@@ -1,6 +1,6 @@
 # URL-Shortner
-#Dependencies
-<dependency>
+# Dependencies
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
